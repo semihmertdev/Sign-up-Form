@@ -51,7 +51,7 @@
   
   @font-face {
     font-family: 'Norse Bold';
-    src: url('/fonts/Norse-Bold.otf') format('opentype');
+    src: url('fonts/Norse-Bold.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -60,7 +60,7 @@
     display: flex;
     align-items: center;
     width: 35%;
-    background-image: url('/images/halie-west-25xggax4bSA-unsplash.jpg');
+    background-image: url('images/halie-west-25xggax4bSA-unsplash.jpg');
     background-size: cover;
     color: white;
     flex-direction: column;
